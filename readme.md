@@ -1,1 +1,1 @@
-Ainda tentando fazer isso funcionar no Windows
+Pasta provisória para treinar no Windows
